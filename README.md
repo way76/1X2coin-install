@@ -5,7 +5,7 @@ Shell script to install a [1X2 Coin Masternode](https://www.1x2coin.net/) on a L
 ## Installation:
 ```
 git clone https://github.com/1X2coin/1X2coin-install/
-cd 1x2coin-install
+cd 1X2coin-install
 bash 1x2coin-install.sh
 ```
 ***
