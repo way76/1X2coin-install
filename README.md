@@ -35,6 +35,8 @@ Alias Address Privkey TxHash Output_index
 12. Open **Debug Console** and type:
 ```
 startmasternode "alias" "0" "MN1"
+￼startmasternode "alias" "0" "Contabo_MN01"
+
 ```
 ***
 
